@@ -1,0 +1,17 @@
+
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| demo               |
+| details            |
+| info               |
+| information_schema |
+| mysql              |
+| performance_schema |
+| practice           |
+| rupali             |
+| school             |
+| sys                |
++--------------------+
+10 rows in set (0.00 sec)
